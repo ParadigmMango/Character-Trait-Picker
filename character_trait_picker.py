@@ -157,6 +157,8 @@ while True:
             else:
                 print('TRY AGAIN.  INPUT MUST BE A'\
                         'POSITIVE INTEGER OF AT LEAST 1')
+        
+        print('')
     else:
         for x in range(num_picks):
             if user_input == '1':
